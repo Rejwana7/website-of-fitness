@@ -399,7 +399,7 @@ margin-left: 2px;
 /* team section */
 .team-section-card{
   width: 100%;
-  border: 2px solid tomato;
+  /* border: 2px solid tomato; */
   background-color: #222222;
   display: grid;
   grid-template-columns: repeat(1,1fr);
