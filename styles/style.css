@@ -736,7 +736,7 @@ line-height: 120%;
   }
 .team-section-card{
   width: 80%;
-  /* border: 2px solid tomato; */
+  
   background-color: #222222;
   display: grid;
   grid-template-columns: repeat(3,1fr);
